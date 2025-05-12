@@ -1,23 +1,12 @@
 📝 To-Do List App
-A simple and intuitive web-based to-do list application that helps users manage daily tasks effectively. Built with [choose your stack: e.g., HTML, CSS, JavaScript | React | Vue | Node.js | etc.].
+A simple and intuitive web-based to-do list application that helps users manage daily tasks effectively. Built with  HTML, CSS, JavaScript
 
 🚀 Features
 ✅ Add new tasks
-
 🗑️ Delete tasks
-
 ✏️ Edit tasks
-
 📌 Mark tasks as completed
-
-📅 Organize tasks by due date or priority (optional)
-
-💾 Local storage/database support (optional)
-
 🎨 Responsive design
-
-📸 Demo
-Add a screenshot or a link to a live demo if available.
 
 🔧 Tech Stack
 Frontend: [HTML/CSS/JavaScript or React/Vue/Angular, etc.]
@@ -35,7 +24,6 @@ Edit
 ├── style.css
 ├── app.js
 └── README.md
-(This will vary depending on your tech stack — adapt as needed.)
 
 🛠️ Installation & Setup
 Clone the repository
@@ -43,9 +31,7 @@ Clone the repository
 bash
 Copy
 Edit
-git clone https://github.com/your-username/todo-list.git
-cd todo-list
-Install dependencies (if using a framework or bundler)
+git clone https://github.com/your-Ramyasree/todo-list.git
 
 bash
 Copy
